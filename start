@@ -1,0 +1,3 @@
+#!/bin/bash
+export JPDA_PORT=9993
+play
